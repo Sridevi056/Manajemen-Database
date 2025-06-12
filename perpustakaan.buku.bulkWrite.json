@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "684a97eb27493024096c4bd1"
+  },
+  "judul": "MongoDB untuk Pemula",
+  "penulis": "Andi Nugroho",
+  "tahun_terbit": 2022,
+  "harga": 75000,
+  "stok": 15,
+  "kategori": "Teknologi"
+},
+{
+  "_id": {
+    "$oid": "684a994a27493024096c4bd2"
+  },
+  "judul": "Belajar Node.js",
+  "penulis": "Rudi Hartono",
+  "tahun_terbit": 2023,
+  "harga": 89000,
+  "stok": 7,
+  "kategori": "Pemrograman"
+}]
